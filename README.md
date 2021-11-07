@@ -2,6 +2,7 @@
 Physics II Pinball project with Box2D
 
 https://github.com/JoanDamia/Pinball
+https://github.com/JoanDamia/Pinball
 
 ## Game description:
 
@@ -10,7 +11,7 @@ The player has to get the maximum points bouncing the ball (BB8) in the differen
 ## Who we are?
 - [Joan Damià](https://github.com/JoanDamia)
 
-- [Albert Martín]()
+- [Albert Martín](https://github.com/T4skar)
 
 - [Laia Pachón](https://github.com/laiapachon) 
 
