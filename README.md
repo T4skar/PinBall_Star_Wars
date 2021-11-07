@@ -1,7 +1,7 @@
 # Star Wars Pinball
 Physics II Pinball project with Box2D
 
-https://github.com/JoanDamia/Pinball
+https://github.com/T4skar/PinBall_Star_Wars
 https://github.com/JoanDamia/Pinball
 
 ## Game description:
